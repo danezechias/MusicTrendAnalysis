@@ -1,4 +1,4 @@
---USE BMGT402_DB_Project_0201_Team_08
+--USE PJ8
 --DROP TABLE ArtistData;
 --DROP TABLE PlaylistData;
 --DROP TABLE TracksData;
